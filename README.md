@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kumaraguru2702
+- 👋 Hi, I’m @Kumara Gurubarar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on Nxt wave
